@@ -10,9 +10,9 @@ Linguagens utilizadas:
 <img alt="Python" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </br>
 
-Enunciado: O aluno deverá criar um único problema e desenvolvê-lo nas cinco linguagens vistas em sala de aula: C, C++, C#, Java e Python. </br>
+Enunciado:</br> O aluno deverá criar um único problema e desenvolvê-lo nas cinco linguagens vistas em sala de aula: C, C++, C#, Java e Python. </br>
            O programa deverá incluir: comandos de entrada e saída, pelo menos uma condicional if aninhada e uma estrutura de repetição. </br>
 
-Exercício realizado: O programa calcula a média das notas de um aluno e imprime aprovado se a nota for maior ou igual a 6, </br>
+Exercício realizado: O programa calcula a média das notas de um aluno e imprime aprovado se a nota for maior ou igual a 6, 
                      recuperação se nota for igual a 5 e reprovado se nota for menor que 5. </br>
 
