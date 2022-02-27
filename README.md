@@ -13,6 +13,6 @@ Linguagens utilizadas:
 Enunciado:</br> O aluno deverá criar um único problema e desenvolvê-lo nas cinco linguagens vistas em sala de aula: C, C++, C#, Java e Python. </br>
            O programa deverá incluir: comandos de entrada e saída, pelo menos uma condicional if aninhada e uma estrutura de repetição. </br>
 
-Exercício realizado: O programa calcula a média das notas de um aluno e imprime aprovado se a nota for maior ou igual a 6, 
-                     recuperação se nota for igual a 5 e reprovado se nota for menor que 5. </br>
+Exercício realizado: </br>
+O programa calcula a média das notas de um aluno e imprime aprovado se a nota for maior ou igual a 6, recuperação se nota for igual a 5 e reprovado se nota for menor que 5. </br>
 
